@@ -70,32 +70,16 @@ body {
     transition: all .3s ease-in-out;
   }
   
-  #plannerRow1 {
+  #plannerRow1, #plannerRow2, #plannerRow3, #plannerRow4, #plannerRow5, #plannerRow6, #plannerRow7, #plannerRow8, #plannerRow9, #plannerRow10  {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     text-align: center;
-    }
-
-    #plannerRow2 {
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    text-align: center;
-    }
-
-    #plannerRow3 {
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    text-align: center;
+    background-color: lightsteelblue;
     }
     
-    #plannerRow4 {
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
-    text-align: center;
-    }
-    
-  #hour1, #hour2, #hour3, #hour4 {
+  #hour1, #hour2, #hour3, #hour4, #hour5, #hour6, #hour7, #hour8, #hour9, #hour10 {
     margin-top: 30px;
+    
     }
 
    
